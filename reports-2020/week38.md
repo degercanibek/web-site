@@ -1,11 +1,11 @@
 # Week 38, 2020 - Sep 14 to Sep 20
 ## IMDG
-### v4.1 | Code Freeze: Oct 22 | GA: Oct 30 
+### v4.1 - Code Freeze: Oct 22 | GA: Oct 30 
  - **IMDG v4.1-BETA-1** was released on **Sep 9**.
  - Zendesk issues (Ahmet, Petr, Matko)
  - SQL performance benchmarking, comparison with old query engine, Ignite and postgres (Vladimir)
  - [IMDG v4.1 GitHub Issue Burndown](https://docs.google.com/spreadsheets/d/1S7dLb5k_Xw6v_U5SI5nPozjUaXiPWNakv0e4zOciINU/edit#gid=1032493721)
-### v4.0.3 | Sep 21
+### v4.0.3 - Sep 21
   - Release Board voting continues. Last minute LDAP fix is being included. 
 ### Core Team 
  - Jenkins, Download Machine maintenance (Josef)
@@ -16,9 +16,9 @@
  - Testing Statistics for Durable and Scheduled Executor Service (Baris)
  - Testing Large Clusters, SQL, Priority Queue (Danny)
 ## Jet
-### v4.3 | Oct 2020
+### v4.3 - First week of Oct
 **Timing:** 8 weeks in, 1 weeks to go
-1 development spring (1 week) added to the release cycle. Projected release date is **first week of October**.
+1 development spring (1 week) added to the release cycle.
 Scope of **v4.3** finalized. Feature overview:
  - **Benchmarking and tuning** - we tuned Jet to impressive performance, latency wise. This tuning will be available as well as clearly described benchmarks, parameters and mapping to real-world use-cases.
  - **Unified API for processing file-based data.** Seems fundamental and it really is. It raises a convenience to process data from files, structured or textual and load it into Hazelcast.
