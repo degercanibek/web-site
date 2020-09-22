@@ -16,7 +16,7 @@
  - Testing Statistics for Durable and Scheduled Executor Service (Baris)
  - Testing Large Clusters, SQL, Priority Queue (Danny)
 ## Jet
-### v4.3 - First week of Oct
+### v4.3 - First week of October
 **Timing:** 8 weeks in, 1 weeks to go
 1 development spring (1 week) added to the release cycle.
 Scope of **v4.3** finalized. Feature overview:
